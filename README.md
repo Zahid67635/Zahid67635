@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently available for Job.
 
-- 👨‍💻 All of my projects are available at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
+- 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
-- 💬 Ask me about **React, Nodejs, JavaScript etc.**
+- 💬 Ask me about **MERN, JavaScript, Python, Data Structure, etc.**
 
 - 📫 How to reach me **zahid67635@gmail.com**
 
