@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Md Zahid Hasan</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Rent Roll](https://rent-roll-684d9.web.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently available for Job.
 
 - 👨‍💻 All of my projects are available at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
