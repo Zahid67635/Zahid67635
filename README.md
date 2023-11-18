@@ -1,19 +1,21 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
-<h1 align="center">Hi 👋, I'm Md Zahid Hasan</h1>
+<h1 align="center">Hi 👋, I'm Md Zahid Hasan Chowdhury</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 
-- 🌱 I’m currently available for Job.
+- 🌱 Currently Learning TypeScript.
 
 - 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
-- 💬 Ask me about **MERN, NextJS, JavaScript, Python, Data Structure, etc.**
+- 💬 Ask me about **MERN, NextJS, JavaScript, Python, Data Structure, Problem-solving etc.**
 
 - 📫 How to reach me **zahid67635@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qU1rPJ5Egh6QFSCR0AKI_Trxgl3PxQK_/view?usp=sharing](https://drive.google.com/file/d/1qU1rPJ5Egh6QFSCR0AKI_Trxgl3PxQK_/view?usp=sharing)
 
 - ⚡ Fun fact **Enjoy challenges**
+
+- 🌱 I’m currently available for Job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
