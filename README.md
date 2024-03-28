@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Enjoy challenges**
 
-- 🌱 I’m currently available for Job.
+- 🌱 I’m currently working as a Full Stack Web Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
