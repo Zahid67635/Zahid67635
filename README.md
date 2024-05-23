@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 
-- 🌱 Currently Learning MySql with Expressjs.
+- 🌱 Currently Learning NextAuth.
 
 - 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
