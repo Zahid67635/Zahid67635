@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 
-- 🌱 Currently Learning EDM.
+- 🌱 Currently Learning AI Agents workflow.
 
 - 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
