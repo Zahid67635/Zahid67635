@@ -3,11 +3,9 @@
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 
-- 🌱 Currently Learning AI Agents workflow.
-
 - 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
-- 💬 Ask me about **MERN, NextJS, JavaScript, Python, Data Structure, Problem-solving etc.**
+- 💬 Ask me about **MERN, NextJS, JavaScript, Postgres, Data Structure, Problem-solving etc.**
 
 - 📫 How to reach me **zahid67635@gmail.com**
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-zahid-hasan-b78982196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zahid-hasan-b78982196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-zahid-hasan-b78982196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
