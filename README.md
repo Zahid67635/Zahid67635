@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Personal portfolio website at [https://zahid-portfolio-17.netlify.app/](https://zahid-portfolio-17.netlify.app/)
 
-- 💬 Ask me about **MERN, NextJS, JavaScript, Postgres, Data Structure, Problem-solving etc.**
+- 💬 Ask me about **MERN, NextJS, Angular, JavaScript, Postgres, Data Structure, Problem-solving etc.**
 
 - 📫 How to reach me **zahid67635@gmail.com**
 
